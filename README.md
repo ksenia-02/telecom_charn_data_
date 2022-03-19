@@ -1,1 +1,0 @@
-telecom_charn_data_
